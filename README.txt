@@ -1,0 +1,1 @@
+Para resolver el proyecto hemos manipulado el lincado de las clases de cara a lo que nos parecia una mejor resolucion, por tanto es necesario hacer uso del MakeFile proporcionado en este mismo directorio y no el original proporcionado por el profesorado.
